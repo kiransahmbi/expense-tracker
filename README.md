@@ -5,8 +5,8 @@
 - All data is saved in a xaml file and updated throughout operation
 - Through the "filter" tab, users can perform various queries to calculate totals, average, min/max for categories or vendors.
 
-<img src="expense tracker 1.png">
-<img src="expense tracker 2.png">
+<img src="https://github.com/kiransahmbi/expense-tracker/blob/main/expenser%20tracker%201.jpg">
+<img src="https://github.com/kiransahmbi/expense-tracker/blob/main/expenser%20tracker%202.jpg">
 
 ## Languages & Tools
 C#, WPF
